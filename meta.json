@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://gitlab.3dicc.com/gokr/blimp",
   "refs": [
-    "fatal: unable to access 'https://gitlab.3dicc.com/gokr/blimp.git/': Could not resolve host: gitlab.3dicc.com",
+    "fatal: unable to access 'https://gitlab.3dicc.com/gokr/blimp.git/': SSL certificate problem: unable to get local issuer certificate",
     ""
   ],
   "heads": []
